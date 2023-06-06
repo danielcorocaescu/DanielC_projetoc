@@ -1,0 +1,8 @@
+Luz;Casa;100.00
+Luz;casa;100.00
+Agua;casa;30.00
+Jantar;Comida;15.00
+Jantar;Comida;15.00
+Big Mac;Comida;5.70
+Haul;Pandabuy;127.01
+WW Golf GTI;Carro;20000.00

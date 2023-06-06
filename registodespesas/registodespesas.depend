@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1686066632 source:c:\users\2222120\onedrive - escola digital\registodespesas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vv.h"
+	"locale.h"
+
+1686065040 c:\users\2222120\onedrive - escola digital\registodespesas\vv.h
+	<conio.c>
+
